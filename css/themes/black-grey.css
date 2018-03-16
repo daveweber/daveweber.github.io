@@ -5,6 +5,10 @@ main {
 	color: #808080;
 }
 
+i[class^='fab fa-'] {
+    color: grey;
+}
+
 .icons-social a {
 	color: #FAFAFA;
 }
