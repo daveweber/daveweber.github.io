@@ -5,7 +5,7 @@ main {
 	color: #808080;
 }
 
-i[class^='fab fa-'] {
+i[class^='fab fa-'], [class^='fas fa-'] {
     color: grey;
 }
 
